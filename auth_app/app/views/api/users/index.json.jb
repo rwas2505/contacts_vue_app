@@ -1,0 +1,4 @@
+{
+  message: "Welcome to the /users Index Page",
+  current_user: current_user.email
+}
